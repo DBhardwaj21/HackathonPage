@@ -9,15 +9,15 @@ function Remain() {
   >
     <div className="container mx-auto max-w-6xl text-center">
       <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-4 sm:mb-6 text-white">
-        About TIIPS
+        About GAC
       </h2>
       <p className="text-sm sm:text-base md:text-lg text-white leading-relaxed bg-purple-900/30 p-4 sm:p-6 md:p-8 rounded-lg shadow-lg">
-        Trinity Institute of Innovations in Professional Studies (TIIPS) is a
+        Government Engineering College Ajmer(GAC)  is a
         premier institute offering quality education in various disciplines.
-        Located in Greater Noida, TIIPS is committed to fostering innovation,
+        Located in Ajmer, GAC is committed to fostering innovation,
         creativity, and technical excellence among students. With
         state-of-the-art infrastructure, experienced faculty, and industry
-        collaborations, TIIPS provides students with an ideal environment to
+        collaborations, GAC provides students with an ideal environment to
         grow and succeed in their careers. The institute emphasizes hands-on
         learning, research, and skill development to prepare students for the
         professional world.
@@ -95,7 +95,7 @@ function Remain() {
                 <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
                 <circle cx={12} cy={10} r={3} />
               </svg>
-              TIIPS Greater Noida, India
+              GAC Ajmer, India
             </a>
           </div>
         </div>
